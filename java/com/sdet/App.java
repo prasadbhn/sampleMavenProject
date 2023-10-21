@@ -15,5 +15,6 @@ public class App {
 			return 0;
 		
 		System.out.println("1");
+		System.out.println("2");
 	}
 }
